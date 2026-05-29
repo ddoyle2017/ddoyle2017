@@ -4,19 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40916C&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+agentic+tools;Open-source+contributor;Go+enthusiast)](https://git.io/typing-svg)
 
-</div>
+I'm currently at GitHub :octocat: Working on bringing new agentic AI developer tools to Copilot and beyond!
 
-## 🔧 What I'm exploring
-
-- 🤖 **Agentic tools** — designing reliable multi-agent workflows, evaluating LLM-driven developer tools, and exploring how agents integrate with existing engineering systems
-- 🦀 **Rust** — picking it up after years of writing Go
-
-## 🧰 Tech I reach for
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-
-## 📫 Connect
+## 📫 Let'sConnect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddoyle2017/)
 
@@ -27,5 +17,3 @@
 </picture>
 
 ---
-
-<p align="center"><i>Thanks for stopping by!</i></p>
