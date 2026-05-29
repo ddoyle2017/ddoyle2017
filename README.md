@@ -18,7 +18,7 @@ I'm currently at GitHub :octocat:, working on bringing new agentic AI developer 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddoyle2017/)
 
@@ -27,7 +27,3 @@ I'm currently at GitHub :octocat:, working on bringing new agentic AI developer 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddoyle2017/ddoyle2017/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ddoyle2017/ddoyle2017/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-<p align="center"><i>Thanks for stopping by!</i></p>
