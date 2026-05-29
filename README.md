@@ -1,16 +1,5 @@
-# Hi, I'm Daniel 👋
-
-Software engineer based in Chicago, IL — focused on distributed systems and agentic tools.
-
-## 🔧 What I'm exploring
-
-- 🤖 **Agentic tools** — designing reliable multi-agent workflows, evaluating LLM-driven developer tools, and exploring how agents integrate with existing engineering systems
-- 🦀 **Rust** — picking it up after years of writing Go
-
-## 🧰 Tech I reach for
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+<h1 align="center"> Hey, I'm Daniel 👋</h1>
+<h4 align="center">Software Engineer | Go Enthusiast</h3>
 
 ## 📫 Connect
 
