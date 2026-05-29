@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0A2540&height=220&section=header&text=Daniel%20Doyle&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Chicago,%20IL&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:96e6a1,100:d4fc79&height=220&section=header&text=Daniel%20Doyle&fontSize=60&fontColor=2d3436&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Chicago,%20IL&descAlignY=58&descSize=18)
 
 <div align="center">
 
@@ -19,8 +19,6 @@
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddoyle2017/)
-
-## 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddoyle2017/ddoyle2017/output/github-contribution-grid-snake-dark.svg" />
