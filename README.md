@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40916C&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+agentic+tools;Open-source+contributor;Go+enthusiast)](https://git.io/typing-svg)
 
-I'm currently at GitHub :octocat: working on bringing new agentic AI developer tools to Copilot and beyond!
+I'm currently at GitHub :octocat:, working on bringing new agentic AI developer tools to Copilot and beyond!
 
 </div>
 
-## 🧰 Languages I've worked with
+### Skills
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -18,7 +18,7 @@ I'm currently at GitHub :octocat: working on bringing new agentic AI developer t
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddoyle2017/)
 
